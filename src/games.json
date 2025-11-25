@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Dark Souls",
+    "description": "RPG de ação sombrio e desafiador.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
+    "genre": "RPG",
+    "developer": "FromSoftware"
+  },
+  {
+    "id": 2,
+    "name": "Dark Souls II",
+    "description": "Continuação do clássico RPG de ação.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/236430/header.jpg",
+    "genre": "RPG",
+    "developer": "FromSoftware"
+  },
+  {
+    "id": 3,
+    "name": "Dark Souls III",
+    "description": "O capítulo final da saga Dark Souls.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/header.jpg",
+    "genre": "RPG",
+    "developer": "FromSoftware"
+  },
+  {
+    "id": 4,
+    "name": "Bloodborne",
+    "description": "RPG de ação gótico e desafiador.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/307780/header.jpg",
+    "genre": "RPG",
+    "developer": "FromSoftware"
+  },
+  {
+    "id": 5,
+    "name": "Sekiro: Shadows Die Twice",
+    "description": "Aventura de ação intensa com temática japonesa.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg",
+    "genre": "Ação",
+    "developer": "FromSoftware"
+  },
+  {
+    "id": 6,
+    "name": "Elden Ring",
+    "description": "RPG de mundo aberto dos criadores de Dark Souls.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+    "genre": "RPG",
+    "developer": "FromSoftware"
+  },
+  {
+    "id": 7,
+    "name": "Nioh",
+    "description": "RPG de ação com samurais e desafios intensos.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/485510/header.jpg",
+    "genre": "RPG",
+    "developer": "Team Ninja"
+  },
+  {
+    "id": 8,
+    "name": "Nioh 2",
+    "description": "Sequência do RPG de ação Nioh.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/header.jpg",
+    "genre": "RPG",
+    "developer": "Team Ninja"
+  },
+  {
+    "id": 9,
+    "name": "Lords of the Fallen",
+    "description": "RPG de ação inspirado em Dark Souls.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/265300/header.jpg",
+    "genre": "RPG",
+    "developer": "CI Games"
+  },
+  {
+    "id": 10,
+    "name": "Mortal Shell",
+    "description": "RPG de ação sombrio e desafiador.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1110910/header.jpg",
+    "genre": "RPG",
+    "developer": "Cold Symmetry"
+  }
+]
